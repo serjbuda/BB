@@ -1,0 +1,117 @@
+@font-face { 
+font-family: 'Augusta'
+src: url(font/Augusta.ttf);
+font-weight: normal;
+font-style: normal;
+}
+*,*:before, *:after: {
+box-sizing: border-box;}
+
+body {
+background: url(Pictures/sythe.png),
+url(Pictures/Backgroundimage.jpg);
+background-color: black;
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: contain, cover;
+font-family: 'Augusta';
+}
+
+.title_image {
+	max-height: 300px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	align-items: center;
+	padding-left: 50px;
+padding-right: 50px;
+padding-top: 100px;
+float: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-image: url(Pictures/Bloodborne.jpg);
+height: 500px;
+box-shadow: 0 0 10px 10px #14FFDF;
+}
+
+.navigation {
+position: relative;
+border: 3px solid blue;
+background-repeat: no-repeat;
+text-decoration: none;
+text-align: center;	
+text-transform: uppercase;
+letter-spacing: 5px;
+margin: auto;
+font-size: 20px;
+font-weight: bold;
+display: inline-block;
+border-radius: 10%;
+font-family: 'Augusta';
+color: blue;
+background-image: url(Pictures/bloodborne-moonlight.gif);
+width: 200px;
+height: 50px;
+background-size: contain;
+box-shadow: inset 0 0 10px 10px #14FFDF;
+}
+
+.content_block {
+padding-left: 250px;
+padding-right: 250px;
+float: center;
+color: white;
+text-align: center;	
+}
+
+.navigation:hover {
+	transition: color .2s linear;
+border: 3px solid white;
+color: white;
+background-image: url(Pictures/bloodborne-moonlight-hover1.gif);
+box-shadow: inset 0 0 10px 10px red;
+}
+
+h1 {
+color: white;
+padding: 10px;
+}
+
+.picture {
+width: 400px;
+border: 3px solid red;
+box-shadow: 0 0 15px 15px black;
+}
+
+a:active {
+color: red;
+background-image: url(Pictures/bloodborne-moonlight-hover1.gif);
+box-shadow: inset 0 0 10px 10px red;
+}
+.main_nav {
+display: flex;
+flex-direction: row;
+text-align: center;	
+align-items: center;
+display: inline-block;
+justify-content: space-between;
+margin: 0 50px;
+}
+
+
+header {
+color: white;
+padding-right: 0px;
+padding-left: 0px;
+margin-bottom: 50px;
+}
+
+footer {
+padding-right: 300px;
+padding-left: 300px;
+text-align: center;
+float: center;
+margin-bottom: 50px;
+margin-top: 50px;	
+}

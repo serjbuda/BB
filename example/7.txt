@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="K7T1cKNcaN3iYgPzSl1cqovstKaZijbO4HQhERADtpU" />
+    <meta name="description" content="Take a trip into an upgraded, more organized inbox with Yahoo Mail. Login and start exploring all the free, organizational tools for your email. Check out new themes, send GIFs, find every photo you’ve ever sent or received, and search your account faster than ever.">
+    <link rel="shortcut icon" href="https://s.yimg.com/mi/yahoo/favicon.ico">
+    <link rel="canonical" href="https://overview.mail.yahoo.com">
+    <link rel="dns-prefetch" href="//s.yimg.com">
+    <link rel="dns-prefetch" href="//geo.yahoo.com">
+    <link rel="dns-prefetch" href="//geo.query.yahoo.com">
+    <link href="https://overview.mail.yahoo.com" hreflang="x-default" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=bn-IN" hreflang="bn-IN" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=de-DE" hreflang="de-DE" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=en-GB" hreflang="en-GB" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=en-US" hreflang="en-US" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=es-ES" hreflang="es-ES" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=fil-PH" hreflang="fil-PH" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=fr-CA" hreflang="fr-CA" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=fr-FR" hreflang="fr-FR" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=gu-IN" hreflang="gu-IN" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=hi-IN" hreflang="hi-IN" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=id-ID" hreflang="id-ID" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=kn-IN" hreflang="kn-IN" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=ml-IN" hreflang="ml-IN" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=mr-IN" hreflang="mr-IN" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=pt-BR" hreflang="pt-BR" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=ro-RO" hreflang="ro-RO" rel="alternate">
+    <link href="https://overview.mail.yahoo.com?lang=ta-IN" hreflang="ta-IN" rel="alternate">
+    <meta http-equiv="content-language" content="en-US">
+    <title>Yahoo Mail</title>
+    <link rel="stylesheet" href="/assets/bundle.css">
+    <script type="text/javascript" src="https://s.yimg.com/ss/rapid-3.41.3.js"></script>
+  </head>
+  <!-- content starts here -->
+  <body class="mailsix">
+    <div id='app'></div>
+    <script type="text/javascript">window.BCG = { global: {"ctx":{"partner":"","supportedLanguages":["en-US","en-PH","bn-IN","en-GB","en-MY","ms","ms-MY","en-CA","en-NZ","en-AU","en-SG","en-IN","fil-PH","fr","fr-CA","fr-FR","de-DE","gu-IN","hi-IN","id","id-ID","kn-IN","ml-IN","mr-IN","pt-BR","ro-RO","es-ES","ta-IN","de-AT","fr-BE","es-US","es-MX","es-AR","es-CO","es-CL","es-PE","es-VE","zh-Hant-TW","zh-Hant-HK","ja","ja-JP","it-IT","zh","zh-TW","zh-CN","zh-SG","zh-HK"],"supportedMailSixLanguages":["en-US","en-GB","en-AU","en-CA","en-IN","en-PH","fr-FR","pt-BR","id-ID","de-DE","zh-Hant-TW","zh-Hant-HK","en-MY","en-SG","ms-MY"],"locale":"en-US","localeStyles":{"us":["en-US"],"intl":["fr-FR","pt-BR","zh-Hant-TW","id-ID","de-DE","zh-Hant-HK"],"globalEn":["en-GB","en-SG","en-MY","en-PH","en-IN","en-CA","en-AU"]},"languageGroup":{"fr":"fr-FR","fil":"en-PH","de":"de-DE","id":"id-ID","zh":"zh-Hant-TW","zh-TW":"zh-Hant-TW","zh-CN":"zh-Hant-TW","zh-SG":"zh-Hant-TW","zh-HK":"zh-Hant-HK","ms":"en-MY","ms-MY":"en-MY"},"partnerclickthru":{"qr":"","ncid":"","mWebSupportedLanguages":{"en-GB":"UK","zh-cn":"TW","zh-TW":"TW","zh-Hant-TW":"TW","zh-HK":"HK","zh-Hant-HK":"HK","en-IN":"IN","en-AU":"AU","id":"ID","id-ID":"ID","fil":"PH","en-PH":"PH","ms-MY":"MY","pt-BR":"BR","fr":"FR","fr-FR":"FR","de":"DE","de-DE":"DE","en-MY":"MY"}},"isInternal":false,"isLoggedIn":true,"ccpa":{"label":"","url":"","isDNT":false,"headers":{"upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.115 (Edition Yx 03)","sec-fetch-user":"?1","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","sec-fetch-site":"same-site","sec-fetch-mode":"navigate","referer":"https://www.yahoo.com/","accept-encoding":"gzip","accept-language":"uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6","cookie":"F=d=EqtQ1Us9vITic_rFjVpLi6g.XjTJqfxvAgPVM4E-; AO=u=1; ucs=lnct=1568232369; APID=UPc14d2171-8143-11e9-8943-02a385f8d06c; GUC=AQEAAQJeHH5fAUIgSQRq; A3=d=AQABBO80G14CEDSyKDIHPpdfvIK_fmAI3FkFEgEAAQJ-HF4BX9wsPzIB_SMAAAcIBRsBXcygcl8IDwgwLcdBQPlUffiVrYB2wAkBBwoBsw&S=AQAAAv3V5zvZxzST42DMPkb6uTM; A1=d=AQABBO80G14CEDSyKDIHPpdfvIK_fmAI3FkFEgEAAQJ-HF4BX9wsPzIB_SMAAAcIBRsBXcygcl8IDwgwLcdBQPlUffiVrYB2wAkBBwoBsw&S=AQAAAv3V5zvZxzST42DMPkb6uTM; A1S=d=AQABBO80G14CEDSyKDIHPpdfvIK_fmAI3FkFEgEAAQJ-HF4BX9wsPzIB_SMAAAcIBRsBXcygcl8IDwgwLcdBQPlUffiVrYB2wAkBBwoBsw&S=AQAAAv3V5zvZxzST42DMPkb6uTM; OTH=v=1&d=eyJraWQiOiIwMTY0MGY5MDNhMjRlMWMxZjA5N2ViZGEyZDA5YjE5NmM5ZGUzZWQ5IiwiYWxnIjoiUlMyNTYifQ.eyJjdSI6eyJndWlkIjoiVTNHWjVZTTJLV1M1WVcyWTNaVlY1TTNGREUiLCJwZXJzaXN0ZW50Ijp0cnVlLCJzaWQiOiJpNnlXQ0Y5ZkpnUzAifX0.wuflkwj_cz1lgFpQ8fXxJRrYmsR0Bh58cIFz2qq7npCv9_RNzXqE-L-cOt9Ze5vlwie5wpyvGBYoIwnSPBg6qcJFxZp0itBPva-3WFIC4HCW2UKZ-PXrG36BrOXn4dmegszqSxq7MCbvP8BvpN4BrudIDFhAf9OT0-ROCqeicG4; T=af=JnRzPTE1ODI2NDUzNDcmcHM9MlFLcjEwWWtEX0JFN3RuUDdlUVcwZy0t&d=bnMBeWFob28BZwFVM0daNVlNMktXUzVZVzJZM1pWVjVNM0ZERQFzbAFNemN3T0FFeE1qQTBOekV5T1RFME1qazVOVGMyT0RZLQFhYwFBQzlyRjNwQgFhbAFidWRhX3NlcmoBc2MBbWJyX2xvZ2luAWZzAXlmV1JZdzFkQ1ZiZwF6egFqQlVWZUJBN0UBYQFRQUUBbGF0AWpCVVZlQg--&sk=DAA1RZeHw0..lL&ks=EAAAHq1RQ1fkgEpHw9P8wOzDw--~G&kt=EAAhL3hxPu5uWwP5JUvYm.jZQ--~I&ku=FAAQVpFBQuMhU7q_Uqvjd9VBkOJc8VRXQdZfjpNVhgTka8pmPh_XnFC6yXfzMkzfL0LLq3_abQB9EM0zh2GmpvAhkfQefyMF53S5CIdDIW2TDiqAdYt4ZBVsb4U2i7RbenIBrCBC77cmNUtoTiSo6ZGexsbrWUsur6TkSiCjSWbLWg-~A; PH=fn=RHnfsycUKvIi_FaRDQ--&l=en-US&i=us; Y=v=1&n=2d11l0umg3223&l=1k30_i4h9/o&p=m2vvvua00000000&r=v8&intl=us; B=5usl0pheg26o5&b=4&d=Ffllbt5tYFrPn8miCffi&s=rq&i=CDAtx0FA.VR9.JWtgHbA; APIDTS=1582913870","host":"overview.mail.yahoo.com","x-guce-trap-fields":"G_TOS=NONEU; G_USER=REG; G_CONSENT=DEC_NON_EU; CLIENT=NONEU;","x-acookie-fields":"BBX=1; GUC=1; A1=1; A3=1; MISMATCH=0; C_WOEID=23424976; S_WOEID=20070188; IS_EU=0; ","x-jurisdiction-type":"WORLD","x-yahoo-dc-os-name":"windows nt","x-yahoo-dc-os-version":"10.0","x-yahoo-dc-browser-name":"chrome","x-yahoo-dc-browser-version":"79.0","x-yahoo-dc-app-name":"","x-yahoo-dc-app-version":"","x-yahoo-dc-device-type":"desktop","x-yahoo-dc-robot":"0","x-yahoo-dc-override-device-type":"","x-yahoo-dc-classify-method":"from os default device type","x-yahoo-dc-time-cost":"2","x-yahoo-dc-marketing-name":"","x-cdn":"YCPI-AB_mail","client-ip":"193.0.221.108","x-forwarded-for":"193.0.221.108, 212.82.111.81","via":"https/2 o30.ycpi.ir2.yahoo.com[94161938-e4e6-48d9-a217-df5c56854af3] (YahooTrafficServer), http/1.1 kubenode-ats26.prod1.ensemble.bf1.yahoo.com[c2019ce0-c808-4230-abfe-510860199e83] (YahooTrafficServer)","y-ra":"193.0.221.108","y-rp":"9553","y-rs":"4nhk4rrpeoj.5hNFiyEN6w--~B","y-rid":"6us81ohf5kcsq","x-ja3-sig":"ef9e8cdaabdc66e39c3ab0fd67d324f6","chad":"_i_b__hcdja____;upgrade-insecure-requests,sec-fetch-user,sec-fetch-site,sec-fetch-mode,x-guce-trap-fields,x-acookie-fields,x-jurisdiction-type,X-CDN","x-ue-tenant":"mail_frontend_overview_microsite","x-incoming-port":"80","yahooremoteip":"212.82.111.81","yahooremoteipsig":"sxiQTkgCk06RUcWG0oZ.ng--~D","y-path":"f=193.0.221.108:9553;b=212.82.111.81:443;s=1;z=72B0eun4qIFQVrhOUbqkDw--~B,f=212.82.111.81:13856;b=10.197.43.20:80;z=iY1Fj80L1L.VnRAB97yfxA--~B"},"xjus":"WORLD"}},"isMobile":false}};</script>
+    <script type="text/javascript" src="/assets/commons.js"></script>
+    <script type="text/javascript" src="/assets/mailsix/bundle.js"></script>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH8Z3T7&type=ym6&cat=ym6lp&u1=" height="0" width="0" style="display:none;visibility:hidden" referrerpolicy="origin"></iframe><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH8Z3T7&type=ym6&cat=ym6lp&u1=" height="0" width="0" style="display:none;visibility:hidden" referrerpolicy="origin"></iframe></noscript>
+  </body>
+  <!-- content ends here -->
+</html>

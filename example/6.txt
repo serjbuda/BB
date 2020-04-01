@@ -1,0 +1,3124 @@
+
+<!DOCTYPE html>
+<html lang=uk>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width">		<meta name="format-detection" content="telephone=no" />
+		<title>Замовити суші та макі роли в Києві, доставка додому | Суши Мастер, Київ</title>
+		<meta name="description" content="Суші та макі роли в Києві  в асортименті - широкий вибір, приємні ціни - в мережі ресторанів японської кухні Суши-Мастер. Замов суші та макі роли в Києві з доставкою додому" />
+		<link rel="stylesheet" href="/css/vendor.css">
+		<link rel="stylesheet" href="/css/style-new841.css?ver=1.74" />
+		
+		<link rel="stylesheet" href="/css/custom.css" />
+		<link rel="stylesheet" href="/css/style-edit84.css?ver=1.94" />
+		
+		<link rel="stylesheet" href="/css/select2.css?ver=1.1" />
+		
+		<link href="/css/suggestions.css" rel="stylesheet" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
+		<link rel="shortcut icon" href="/favicon.png" type="image/png">
+				
+		<link rel="canonical" href="https://sushi-master.ua/kiiv/menu/sushi-ta-maki-roli/" />
+		
+									<link rel="alternate" href="https://sushi-master.ua/kiiv/menu/sushi-ta-maki-roli/" hreflang="uk-ua" />
+				<link rel="alternate" href="https://ru.sushi-master.ua/kiiv/menu/sushi-ta-maki-roli/" hreflang="ru-ua" />
+									<link href="/bitrix/cache/css/s1/main/kernel_main/kernel_main.css?158176625144417" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/main/page_a1f869c44e72b9a5c64af481e5886f3e/page_a1f869c44e72b9a5c64af481e5886f3e.css?1581766248897" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/main/template_f9cd4ae71fca249b4475ca505eea1930/template_f9cd4ae71fca249b4475ca505eea1930.css?15817662463802" type="text/css"  data-template-style="true"  rel="stylesheet" />
+		<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'7200','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1582969057','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'dda9e9d0a2edff1c09d1e227493de92d'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/main/kernel_main/kernel_main.js?1581766251269063"></script>
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?154934864293636"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/main/kernel_abbyy.cloud/kernel_abbyy.cloud.js?15817662463027"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?154934864273480','/bitrix/js/main/core/core_ajax.js?154934864221031','/bitrix/js/main/json/json2.min.js?15493486423467','/bitrix/js/main/core/core_ls.js?15493486427365','/bitrix/js/main/session.js?15493486422511','/bitrix/js/main/core/core_window.js?154934864274754','/bitrix/js/main/core/core_popup.js?154934864229812','/bitrix/js/main/core/core_date.js?154934864234241','/bitrix/js/main/utils.js?154934864219858','/bitrix/js/abbyy.cloud/abbyy.cloud.js?15493486432769']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?15493486422854','/bitrix/js/main/core/css/core_popup.css?154934864229699','/bitrix/js/main/core/css/core_date.css?15493486429657','/bitrix/templates/main/components/bitrix/catalog/catalog_new/style.css?1549348645697','/bitrix/templates/main/styles.css?15795144632635','/bitrix/templates/main/template_styles.css?1549348645895']); </script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (! cookie || cookie.EXPIRE < BX.message("SERVER_TIME"))
+							{
+								var request = new XMLHttpRequest();
+								request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+								request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+								request.send(
+									"SITE_ID="      + encodeURIComponent(BX.message("SITE_ID")) + "&" +
+									"sessid="       + encodeURIComponent(BX.bitrix_sessid())    + "&" +
+									"HTTP_REFERER=" + encodeURIComponent(document.referrer)
+								);
+							}
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+		<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "00af72a40feda1183078bfd183f464e6"]); _ba.push(["host", "sushi-master.ua"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+<script>new Image().src='https://sushi-master.com.ua/bitrix/spread.php?s=QklUUklYX1NNX0FCVEVTVF9zMQEBMTYxNDA3MzA1NgEvAQEBAkJJVFJJWF9TTV9HVUVTVF9JRAEzMDY4MzcBMTYxNDA3MzA1NgEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATI5LjAyLjIwMjAgMTE6Mzc6MzYBMTYxNDA3MzA1NgEvAQEBAkJJVFJJWF9TTV9DSVRZX0lEATE2NjYxATE2NDUxNzcwNTYBLwEBAQJCSVRSSVhfU01fQ0lUWV9VUkwBa2lpdgExNjQ1MTc3MDU2AS8BAQECQklUUklYX1NNX0NJVFlfUFJJQ0VfSUQBNjIBMTY0NTE3NzA1NgEvAQEBAkJJVFJJWF9TTV9DSVRZX1BSSUNFX0NPREUBMjU3ZGY1ODAtNWNkNi1hMTA2LTAxNWMtM2NhODEwMzg2NmI4ATE2NDUxNzcwNTYBLwEBAQI%3D&k=3b62d8c021b57b7ebe43dc7126750687';
+</script>
+
+
+		<script src="/js/combined.js"></script>
+
+		<script type="text/javascript">
+		  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+		   branch.init('key_live_giNgk1iU8H73SeZ7sELoxjbfvFkz97Ok');
+		</script>		
+		
+		<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window,document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		 fbq('init', '1720974361537425');
+		fbq('track', 'PageView');
+		</script>
+		<noscript>
+		 <img height="1" width="1" 
+		src="https://www.facebook.com/tr?id=1720974361537425&ev=PageView
+		&noscript=1"/>
+		</noscript>
+		<!-- End Facebook Pixel Code -->
+		
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PDQZ4NB');</script>
+		<!-- End Google Tag Manager -->	
+		
+		
+				
+		<script charset="UTF-8" src="//cdn.sendpulse.com/js/push/ed34f812365ff80cd01a60025fbb7277_1.js" async></script>
+	</head>
+
+<body class="eidtmode">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDQZ4NB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    			<div class='animsition'>
+					<div style="background-image:url('/img/main-slider.jpg')" class="wraper-head wraper-head--min">
+			<div class="wraper-head__filter"></div>
+					<!--block header-->
+			
+				<div class="header">
+				
+					<div class="choiceCityPopup ">
+						<!--<svg class="icon">
+							<use xlink:href="#close"></use>
+						</svg>-->
+							Ваше місто<br/>
+							<span>Київ ?</span><br/>
+							<a href="/kiiv/" class="btn--md btn--orange">Так</a>
+							<a href="#" class="btn--md get-city" data="modal-town">Нi</a> 
+					</div>
+				
+					<div class="main-page-header-wrap">
+						<div class="wraper-head__filter"></div>
+						<div class="header__top-filter">
+							<div class="main-cont">
+								<!--header__top-->
+								<div class="header__top">
+									<div class="header-town">
+										<svg class="icon">
+											<use xlink:href="#map-pin"></use>
+										</svg>
+										<div data="modal-town" class="header-town_el get-city" data-id="16661">Київ</div>
+									</div>
+									<div class="header-list-nav">
+										<a href="/kiiv/actions/" class="header-list-nav__el">Акції</a>
+										<a href="/kiiv/delivery/" class="header-list-nav__el">Доставка</a>				
+										<a href="/reviews/" class="header-list-nav__el">Відгуки</a>
+										<a href="/about/" class="header-list-nav__el">Про нас</a>
+										<a href="http://invest-sm.com/franchise/"
+                                           class="header-list-nav__el">
+                                            Франшиза                                        </a>
+										<a href="/kiiv/job/" class="header-list-nav__el">Вакансіі</a>
+									</div>
+									<!--<div class="header-contact">
+										<div class="header-contact__el">
+											<div data="modal-callback" class="header-contact__el-callback get-modal">Перезвоните мне</div>
+										</div>
+									</div>-->
+																		<div class="header-enter">
+										<div class="header-enter-user">
+											<a href="#" class="header-enter__icon">
+												<svg class="icon">
+													<use xlink:href="#profile"></use>
+												</svg> 
+											</a>
+											<div class="header-enter__text">
+												<a href="#" data="modal-enter" class="header-enter__login get-modal"> Вхід</a>
+												<div class="header-enter__devider">|</div>
+												<a href="#" data="modal-regist" class="header-enter__reg get-modal">Реєстрація</a>
+											</div>
+										</div>
+
+										<div class="langsite">
+											UA 
+											<div class="lang_choise_wrap">
+																																					<a href="https://ru.sushi-master.ua/kiiv/menu/sushi-ta-maki-roli/?utm_source=google&utm_medium=cpc&utm_term=%2Bsushi%20%2Bmaster&gclid=EAIaIQobChMIkK3Bmrv25wIV2qSaCh0wFAy8EAAYASAAEgLbePD_BwE">RU</a>
+													
+											</div>
+										</div>
+
+									</div>
+																	</div>
+								<!--header__top-end-->
+							</div>
+						</div>
+						<div class="main-cont">
+							<div class="header__nav">
+							
+								<div class="header-mobile-togle">
+									<a href="#mobile-menu" class="header-mobile-togle-icon">
+										<svg class="icon icon-open">
+											<use xlink:href="#menu-toggle"></use>
+										</svg>
+										<svg class="icon icon-close">
+											<use xlink:href="#close"></use>
+										</svg>
+									</a>
+								</div>
+								<div class="header-logo">
+									<a href="/">
+										<div class="header-logo__el">Мережа ресторанів доставки страв японської кухні Суши Мастер, Україна</div>
+									</a>
+								</div>
+								<div class="header-search-wrap">
+									<div class="header-search">
+										<input type="text" placeholder="Що будемо шукати?" class="header-search__input" />
+										<div class="header-search__icon">
+											<svg class="icon">
+												<use xlink:href="#search"></use>
+											</svg>
+										</div>
+										<div class="search-empty serch-result__el">Нічого не знайдено</div>
+										<div class="search-result"></div>
+									</div>
+								</div>
+								<div class="header-block-info">
+									<div class="header-block-info__el header-block-info__el--contact">
+										<div class="header-block-info__icon">
+											<svg class="icon">
+												<use xlink:href="#phone"></use>
+											</svg>
+										</div>
+										<div class="header-block-info__cont">
+											<a href="tel:0 800 330 333" class="header-block-info__val tl-call-catcher phone-number">0 800 330 333</a>
+																						<div class="header-block-info__val-sub">10:00 - 22:00</div>
+										</div>
+									</div>
+																		<div class="header-block-info__el header-basket">
+										
+		<div class="header-block-info__icon">
+		<svg class="icon">
+			<use xlink:href="#cart"></use>
+		</svg>
+	</div>
+	<div class="header-block-info__cont">
+		<div class="header-block-info__val">0 ₴</div>
+		<div class="header-block-info__val-sub">0 товарів</div>
+	</div>
+	<div class="cnt-mob">0</div>
+		<pre style="display:none">Array
+(
+    [0] => 2
+)
+</pre>
+									</div>
+																	</div>
+								<!--header__sub-basket-->
+								<div class="header__sub-basket">
+									<div class="header__sub-basket-container">
+										<div class="header-basket__coner-menu"></div>
+										<div class="header__sub-basket-close">
+											<svg class="icon">
+												<use xlink:href="#close"></use>
+											</svg>
+										</div>
+										<div class="header__sub-basket-wraper">
+											        <div class="header__sub-basket-info">
+             Кошик порожній 
+          </div>
+        <div class="header-total">
+          </div>
+											<div class="header-total">
+												<div class="header-total__info">
+
+												</div>
+												<div class="header-total__get">
+
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="main-cont header-menu-main-wrap">
+							<div class="header-menu-main">
+									<div class="header-menu-main__el" data-sort="5" data-pasort="">
+		<a href="/kiiv/menu/aktsii/" class="mylink">
+			<span>Акції</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-sort="10" data-pasort="">
+		<a href="/kiiv/menu/nabori/" class="mylink">
+			<span>Набори</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-count="1" data-sort="20" data-pasort="">
+		<a href="/kiiv/menu/roli/" class="mylink">
+			<span> Роли</span>
+						<svg class="icon">
+				<use xlink:href="#arrow-down"></use>
+			</svg>
+					</a>
+				<div class="header-menu-main__sub">
+			<div class="header-menu-main__coner"></div>		
+				<a href="/kiiv/menu/roli/" class="header-menu-main__sub-el">Роли</a>
+									<a href="/kiiv/menu/garyachi-roli/" class="header-menu-main__sub-el">Гарячі роли</a>
+							
+		</div>
+			</div>
+	<div class="header-menu-main__el" data-sort="30" data-pasort="">
+		<a href="/kiiv/menu/sushi-ta-maki-roli/" class="mylink">
+			<span>Суші та макі роли</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-sort="40" data-pasort="">
+		<a href="/kiiv/menu/supi/" class="mylink">
+			<span>Супи</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-sort="50" data-pasort="">
+		<a href="/kiiv/menu/garyachi-stravi/" class="mylink">
+			<span>Гарячі страви</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-sort="60" data-pasort="">
+		<a href="/kiiv/menu/salati/" class="mylink">
+			<span>Салати</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-sort="70" data-pasort="">
+		<a href="/kiiv/menu/zakuski/" class="mylink">
+			<span>Закуски та Доповнення</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-sort="80" data-pasort="">
+		<a href="/kiiv/menu/vegetarianske-menyu/" class="mylink">
+			<span>Вегетаріанське меню</span>
+		</a>
+	</div>
+	<div class="header-menu-main__el" data-sort="100" data-pasort="">
+		<a href="/kiiv/menu/deserti-ta-napoi/" class="mylink">
+			<span>Десерти та напої</span>
+		</a>
+	</div>
+																<a class="header-block-info__el header-basket basket-mobile" href="/buy/">
+									
+		<div class="header-block-info__icon">
+		<svg class="icon">
+			<use xlink:href="#cart"></use>
+		</svg>
+	</div>
+	<div class="header-block-info__cont">
+		<div class="header-block-info__val">0 ₴</div>
+		<div class="header-block-info__val-sub">0 товарів</div>
+	</div>
+	<div class="cnt-mob">0</div>
+		<pre style="display:none">Array
+(
+    [0] => 2
+)
+</pre>
+								</a>	
+																
+							</div>
+							<div class="header-menu-mobile">
+								<div class="header-menu-mobile__list">
+									<a href="/kiiv/actions/" class="header-menu-mobile__el">Акції</a>
+									<a href="/kiiv/delivery/" class="header-menu-mobile__el">Доставка</a>
+									<a href="/about/" class="header-menu-mobile__el">Про нас</a>
+									<a href="/kiiv/job/" class="header-menu-mobile__el">Вакансіі</a>
+								</div>
+								<div class="header-town">
+									<svg class="icon">
+										<use xlink:href="#map-pin"></use>
+									</svg>
+									<div data="modal-town" class="header-town_el get-modal">Київ</div>
+								</div>
+																
+								<div class="header-enter">
+									<a href="#" class="header-enter__icon">
+										<svg class="icon">
+											<use xlink:href="#profile"></use>
+										</svg>
+									</a>
+									<div class="header-enter__text">
+										<a href="#" data="modal-enter" class="header-enter__login get-modal"> Вхід</a>
+										<div class="header-enter__devider">|</div>
+										<a href="#" data="modal-regist" class="header-enter__reg get-modal">РеєстраціяРегистрация</a>
+									</div>
+								</div>
+																<div class="header-block-info__el header-block-info__el--phone">
+									<div class="header-block-info__icon">
+										<svg class="icon">
+											<use xlink:href="#phone"></use>
+										</svg>
+									</div>
+									<div class="header-block-info__cont">
+										<a href="tel:0 800 330 333" class="header-block-info__val tl-call-catcher phone-number">0 800 330 333</a>
+										<div class="header-block-info__val-sub">10:00 - 22:00</div>
+									</div>
+								</div>
+							</div>
+							<!--header__nav-end-->
+						</div>
+					</div>
+				</div>
+				
+			<!--block header end-->
+							<div class="wraper-head__title">Суші та макі роли</div>
+								</div> 
+
+				<div class="main-cont fh">
+				<div class="bread category-bread">
+   <a href="/kiiv/" class="bread__el"><span>Замовлення і доставка суші та ролів в мережі ресторанів Суші майстер,</span> Київ</a>
+   <strong>Суші та макі роли</strong>
+</div>
+<h1 class="main-title main-title--border">Суші та макі роли</h1>
+</div>
+<div class="main-cont">
+<div class="category-nav">
+	<div class="category-nav__wrap">
+		<div data="action-filter" class="category-nav__cont-el category--setting">
+			<svg class="icon">
+				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#seting"></use>
+			</svg>
+		</div>
+		<div data="action-sort" class="category-nav__cont-el category--group">
+			<svg class="icon">
+				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sort"></use>
+			</svg>
+		</div>
+	</div>
+	<div class="category-triger-menu category-triger-menu--active">
+		<div class="category-triger-menu__open category-triger">
+			<svg class="icon">
+				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-left"></use>
+			</svg>
+			<span>Зховати фільтри</span>
+		</div>
+		<div class="category-triger-menu__close category-triger">
+			<svg class="icon">
+				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#seting"></use>
+			</svg>
+			<span>Показати фільтри</span>
+		</div>
+	</div>
+	<div data="action-sort" class="category-nav__cont action-cont">
+		<div class="filter-list">
+			<div class="filter-list__title">Сортувати:</div>
+			<div class="filter-list__el filter-list__el--active" data-url="/kiiv/menu/sushi-ta-maki-roli/?utm_source=google&utm_medium=cpc&utm_term=+sushi +master&gclid=EAIaIQobChMIkK3Bmrv25wIV2qSaCh0wFAy8EAAYASAAEgLbePD_BwE">За замовчуванням</div>
+			<div class="filter-list__el " data-url="/kiiv/menu/sushi-ta-maki-roli/?utm_source=google&utm_medium=cpc&utm_term=+sushi +master&gclid=EAIaIQobChMIkK3Bmrv25wIV2qSaCh0wFAy8EAAYASAAEgLbePD_BwE&order=pricedown">Перші дешевше</div>
+			<div class="filter-list__el " data-url="/kiiv/menu/sushi-ta-maki-roli/?utm_source=google&utm_medium=cpc&utm_term=+sushi +master&gclid=EAIaIQobChMIkK3Bmrv25wIV2qSaCh0wFAy8EAAYASAAEgLbePD_BwE&order=priceup">Перші дорожче</div>
+			<div class="filter-list__el " data-url="/kiiv/menu/sushi-ta-maki-roli/?utm_source=google&utm_medium=cpc&utm_term=+sushi +master&gclid=EAIaIQobChMIkK3Bmrv25wIV2qSaCh0wFAy8EAAYASAAEgLbePD_BwE&order=nameASC">Аа Яя</div>
+			<div class="filter-list__el " data-url="/kiiv/menu/sushi-ta-maki-roli/?utm_source=google&utm_medium=cpc&utm_term=+sushi +master&gclid=EAIaIQobChMIkK3Bmrv25wIV2qSaCh0wFAy8EAAYASAAEgLbePD_BwE&order=nameDESC">Яя Аа</div>
+		</div>
+	</div>
+</div>
+<div class="container-category order-item__small category-wrap--full">
+	<div data="action-filter" class="category-menu action-cont" data-url="/kiiv/menu/sushi-ta-maki-roli/" style="display: none;">
+		<div class="action-filter__slider">
+			<div class="action-filter__title">Ціна</div>
+			<div id="rangeSlider"></div>
+			<div data-min="50" data-max="2000" class="range-slider-val">
+				<div class="range-slider-val__el">від					<span id="range-min">90</span> ₴</div>
+				<div class="range-slider-val__el">до					<span id="range-max">1600</span> ₴</div>
+			</div>
+		</div>
+			
+		<div class="action-filter__footer-el">
+			<div class="btn--md btn--orange">Застосувати</div>
+		</div>
+		<div class="action-filter-clear">Відмінити фільтри</div>
+	</div>	
+	
+	<div class="category-wrap category-wrap--full-size">
+	<!---->
+
+
+		<div class="category-grid">
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_tunets_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146953">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/d7f/d7f7f773896e47f3d322acca498f6e2b.jpg" alt="Суші тунець 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші тунець 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, тунець.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">60 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">74 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші тунець 2шт" data-category="Суші та макі роли" data-idProd="146953" data-price="74">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_losos_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146952">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/2a8/2a84df31e305244157118d651de0f7aa.jpg" alt="Суші лосось 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші лосось 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, лоcось.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">60 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">58 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші лосось 2шт" data-category="Суші та макі роли" data-idProd="146952" data-price="58">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_krevetka_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146933">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/8e6/8e66487a9c720241e095ac2667e854d8.jpg" alt="Суші креветка 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші креветка 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, креветка.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">60 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">64 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші креветка 2шт" data-category="Суші та макі роли" data-idProd="146933" data-price="64">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_kopcheniy_losos_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146932">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/e96/e968dd422db36c275125bc6a3e0d7ed1.jpg" alt="Суші копчений лосось 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші копчений лосось 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, лосось копчений.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">60 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">78 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші копчений лосось 2шт" data-category="Суші та макі роли" data-idProd="146932" data-price="78">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_gunkan_tunets_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146931">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/06d/06d114821117e5184bc06a08f5384c4f.jpg" alt="Суші гункан тунець 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші гункан тунець 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, тунець, майонез, ікра масаго, норі.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">70 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">86 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші гункан тунець 2шт" data-category="Суші та макі роли" data-idProd="146931" data-price="86">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_gunkan_losos_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146930">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/1ae/1ae9f9cb6a93b8b13051159968406fc2.jpg" alt="Суші гункан лосось 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші гункан лосось 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, лосось, майонез, ікра масаго, норі.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">70 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">64 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші гункан лосось 2шт" data-category="Суші та макі роли" data-idProd="146930" data-price="64">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_gunkan_krevetka_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146929">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/417/4176a58c55c46221f7d120a42e921a76.jpg" alt="Суші гункан креветка 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші гункан креветка 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, креветка, майонез, ікра масаго, норі.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">70 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">58 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші гункан креветка 2шт" data-category="Суші та макі роли" data-idProd="146929" data-price="58">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_gunkan_vugor_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146925">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/5bf/5bf4bcf38b32858791ffce96ba2faf8e.jpg" alt="Суші гункан вугор 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші гункан вугор 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, вугор, майонез, ікра масаго, норі.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">70 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">88 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші гункан вугор 2шт" data-category="Суші та макі роли" data-idProd="146925" data-price="88">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/sushi_vugor_2sht/" data="modal-sushi" class="item-long__wraper " data-id="146893">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/467/4674e2d5fd1854a360d0504de171fbce.jpg" alt="Суші вугор 2шт, Київ"/>
+														</span>
+												<span class="item__name">Суші вугор 2шт</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, вугор, кунжут, cоус Унагі.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">60 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">86 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Суші вугор 2шт" data-category="Суші та макі роли" data-idProd="146893" data-price="86">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/maki_z_avokado/" data="modal-sushi" class="item-long__wraper " data-id="16744">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/694/694fe0f7e2d291f3195bd68d69caf3fb.jpg" alt="Макі з авокадо, Київ"/>
+														</span>
+												<span class="item__name">Макі з авокадо</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, норі, авокадо</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">110 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">59 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Макі з авокадо" data-category="Суші та макі роли" data-idProd="16744" data-price="59">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/maki_z_kopchenim_lososem/" data="modal-sushi" class="item-long__wraper " data-id="16743">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/3ca/3cac3fd8c10d2e6f815e7560888d4f6f.jpg" alt="Макі з копченим лососем, Київ"/>
+														</span>
+												<span class="item__name">Макі з копченим лососем</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">рис, норі, копчений лосось</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">100 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">73 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Макі з копченим лососем" data-category="Суші та макі роли" data-idProd="16743" data-price="73">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/maki_z_lososem_i_sirom/" data="modal-sushi" class="item-long__wraper " data-id="16742">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/b8b/b8b925f95f67d6393d5e9190f626d01e.jpg" alt="Макі з лососем і сиром, Київ"/>
+														</span>
+												<span class="item__name">Макі з лососем і сиром</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Лосось, крем сир,&nbsp;&nbsp;рис, норі.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">100 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">67 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Макі з лососем і сиром" data-category="Суші та макі роли" data-idProd="16742" data-price="67">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/maki_z_krevetkoyu/" data="modal-sushi" class="item-long__wraper " data-id="16741">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/0cc/0cc770f467149cc2cf8ea516503c46eb.jpg" alt="Макі з креветкою, Київ"/>
+														</span>
+												<span class="item__name">Макі з креветкою</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Креветка, рис, норі.</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">110 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">62 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Макі з креветкою" data-category="Суші та макі роли" data-idProd="16741" data-price="62">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/maki_z_lososem/" data="modal-sushi" class="item-long__wraper " data-id="16740">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/b7b/b7b73ee5baa0d1ba5a7baf999c48f976.jpg" alt="Макі з лососем, Київ"/>
+														</span>
+												<span class="item__name">Макі з лососем</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, норі, лосось філе</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">100 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">69 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Макі з лососем" data-category="Суші та макі роли" data-idProd="16740" data-price="69">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/maki_z_vugrem/" data="modal-sushi" class="item-long__wraper " data-id="16739">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/c6d/c6d79b1e6623213bc4023919e59acbfd.jpg" alt="Макі з вугрем, Київ"/>
+														</span>
+												<span class="item__name">Макі з вугрем</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">рис, норі, вугор, соус &quot;Унагі&quot;, кунжут смажений</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">110 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">89 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Макі з вугрем" data-category="Суші та макі роли" data-idProd="16739" data-price="89">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+							<div class="item-long item__el item__el-get buySushi">
+					<div class="item__el--active-check">
+						<svg class="icon">
+							<use xlink:href="#check"></use>
+						</svg>
+					</div>
+					<div class="item-header">
+																														<!--.item-type.item-type--yellow-->
+					</div>
+					<h2>
+					<a href="/kiiv/menu/sushi-ta-maki-roli/maki_z_ogirkom/" data="modal-sushi" class="item-long__wraper " data-id="16738">
+						 
+							<span class="item__image">
+															<img src="/upload/iblock/ce4/ce404f6074ea4e7d03f20efa593e9e28.jpg" alt="Макі з огірком, Київ"/>
+														</span>
+												<span class="item__name">Макі з огірком</span>
+						
+					</a>
+					</h2>
+					
+					<div class="item-long__text">Рис, норі, огірок</div>
+					
+					<div class="item-long__text allergen-block">Всі наші страви можуть містити сліди <a href="/allergens/" target="_blank"><span class="allergen">алергенів</span></a>, якщо Ви маєте алергію попередьте працівника, що приймає замовлення</div>
+					
+					<div class="item-long__content">
+						<div class="item-long__value">110 г.</div>
+																	</div>
+									
+					<div class="item-long__footer">	
+												
+						<div class="item-long__footer-info">
+							<div class="item-long__cost">39 <span class="currub curmin">₴</span></div>
+						</div>
+																		<div class="item-long__get">	
+							<div class="btn--sm btn--light get-order-count">
+								<div class="btn--icon">
+									<span>Хочу</span>
+									<svg class="nav-icon">
+										<use xlink:href="#bug"></use>
+									</svg>
+								</div>
+							</div>
+						</div>
+						<div class="item-long__incr">
+							<div class="elements-icr-block amountData" data-name="Макі з огірком" data-category="Суші та макі роли" data-idProd="16738" data-price="39">
+								<div class="incr">
+									<div class="incr__minus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#minus"></use>
+										</svg>
+									</div>
+									<div class="incr__val">
+										<span>0</span>
+										<div class="incr__val-coner"></div>
+									</div>
+									<div class="incr__plus incr__nav">
+										<svg class="icon">
+											<use xlink:href="#plus"></use>
+										</svg>
+									</div>
+									<div class="incr-row">
+										<div class="incr-row-wrap">
+											<div class="incr-row__el">1</div>
+											<div class="incr-row__el">2</div>
+											<div class="incr-row__el">3</div>
+											<div class="incr-row__el">4</div>
+											<div class="incr-row__el">5</div>
+											<div class="incr-row__el">6</div>
+											<div class="incr-row__el">7</div>
+											<div class="incr-row__el">8</div>
+											<div class="incr-row__el">9</div>
+											<div class="incr-row__el">10</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+					</div>
+<script> 
+fbq('trackSingleCustom', '1720974361537425', 'ViewCategory', {
+	content_name: 'Суші та макі роли',
+  	content_category: 'Суші та макі роли',
+  	content_ids: ['146953','146952','146933','146932','146931'], // top 5-10 results
+  	content_type: 'product'
+});
+</script>
+	</div>
+	
+</div>
+
+</div>
+<!--block footer-->
+	</div>
+		<div class="footer">
+			<div class="main-cont">
+				<div class="footer__head">
+					<div class="footer__head-col footer__head-col-doc">
+						<div class="footer__head-text">Можна розраховуватися</div>
+						<div class="footer__head-img">
+							<img src="/img/pay.png" alt="" />
+						</div>
+					</div>
+					<div class="footer__head-col">
+						<div class="footer__head-text">Мінімальна							<br>сума замовлення</div>
+						<div class="footer__head-pay">200</div>
+					</div>
+					<div class="footer__head-col">
+						<a href="/restaurants/" class="footer__head-pay">Наші ресторани</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-dark">
+			<div class="main-cont">
+				<div class="footer-dark__wrap">
+					<div class="footer-dark__col footer__head-col-doc">
+						<div class="footer-dark__cont">
+							<div class="footer-dark__title">© 2020“Sushi-Master”</div>
+							<!--<a href="/privacy-policy/" class="footer-dark__text">Політика конфіденційності  | Суши Мастер в Україні</a>-->
+							<a href="/ofert/" class="footer-dark__text">Публічна оферта</a>
+						</div>
+					</div>
+					<div class="footer-dark__col">
+						<div class="footer-dark__cont">
+							<div class="footer-dark__title">Служба доставки</div>
+							<div class="footer-dark__phone"><a href="tel:0 800 330 333" class="tl-call-catcher phone-number" style="color: #fff;">0 800 330 333</a></div>
+						</div>
+					</div>
+					<div class="footer-dark__col poll">
+						<div class="footer-dark__cont">
+							<div class="footer-dark__title">Замовив в Sushi Master? Допожи нам стати краще!</div>
+							<div class="footer-dark__phone"><a href="https://opros.sushi-master.ua/" target="blank">Пройди опитування та залиш свій відгук</a> <span>&#10095;</span></div>
+						</div>
+					</div>
+					<div class="footer-dark__col footer-dark__col--soc">
+						<div class="footer-dark__cont">
+							<div class="footer-soc">
+								<a href="https://www.facebook.com/sushimasterukraine/" target="_blank" class="footer-soc__el">
+									<svg class="icon">
+										<use xlink:href="#soc-fb"></use>
+									</svg>
+								</a>
+								<a href="https://www.instagram.com/sushi_master_ukraine/" target="_blank" class="footer-soc__el">
+									<svg class="icon">
+										<use xlink:href="#soc-ins"></use>
+									</svg>
+								</a>
+							</div>
+							<a target="_blank" class="footer-dark__img">
+								<span style="color: #fff; display: block; font-size: 12px; text-align: center;"></span>
+								<img src="/img/logo-jq.png" alt="группа компаний Джейкью" />
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+<!--mobile menu-->
+<!--block mobile-menu-->
+
+<nav id="mobile-menu">
+	<!--noindex--><ul class="mobile-menu__one-lvl">
+		<li class="mobile-menu-el" style="background: #dedede;">
+			<span>Київ</span>
+			<ul class="mobile-menu__two-lvl">
+  <li class="mobile-menu-el">
+    <a href="#">Вінницька область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/vinnitsya/">Вінниця</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Волинська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/lutsk/">Луцьк</a>
+	  </li>
+		  <li class="mobile-menu-el">
+		<a href="/ternopil/">Тернопіль</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Дніпропетровскька область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/kriviy-rig/">Кривий Ріг</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Донецька область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/mariupol/">Маріуполь</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Житомирська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/zhitomir/">Житомир</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Івано-Франківська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/ivano-frankivsk/">Івано-Франківськ</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Київ</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/kiiv/">Київ</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Київська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/bila-tserkva/">Біла Церква</a>
+	  </li>
+		  <li class="mobile-menu-el">
+		<a href="/brovari/">Бровари</a>
+	  </li>
+		  <li class="mobile-menu-el">
+		<a href="/vishneve/">Вишневе</a>
+	  </li>
+		  <li class="mobile-menu-el">
+		<a href="/irpin/">Ірпінь</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Львівська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/lviv/">Львів</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Миколаївська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/mikolaiv/">Миколаїв</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Одеська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/odesa/">Одеса</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Полтавська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/kremenchuk/">Кременчук</a>
+	  </li>
+		  <li class="mobile-menu-el">
+		<a href="/poltava/">Полтава</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Рівенська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/rivne/">Рівне</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Сумская область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/sumi/">Суми</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Тернопільська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Харківська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/kharkiv/">Харків</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Херсонська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/kherson/">Херсон</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Хмельницька область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/khmelnitskiy/">Хмельницький</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Черкаська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/uman/">Умань</a>
+	  </li>
+		  <li class="mobile-menu-el">
+		<a href="/cherkasi/">Черкаси</a>
+	  </li>
+		</ul>   
+  </li>
+    <li class="mobile-menu-el">
+    <a href="#">Чернігівська область</a>
+	<ul class="mobile-menu__thre-lvl">
+		  <li class="mobile-menu-el">
+		<a href="/chernigiv/">Чернігів</a>
+	  </li>
+		</ul>   
+  </li>
+  </ul>
+		</li>	
+		<li class="mobile-menu-el mmenuelmenu">
+			<span>Меню</span>
+			<ul class="mobile-menu__two-lvl">
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/aktsii/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Акції</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/nabori/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Набори</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/roli/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Роли</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/garyachi-roli/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Гарячі роли</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/sushi-ta-maki-roli/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Суші та макі роли</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/supi/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Супи</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/garyachi-stravi/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Гарячі страви</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/salati/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Салати</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/zakuski/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Закуски та Доповнення</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/vegetarianske-menyu/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Вегетаріанське меню</div>
+				</a>
+			</li>
+					<li class="mobile-menu-el">
+				<a href="/kiiv/menu/deserti-ta-napoi/" class="header__sub-menu__el">
+					<div class="header__sub-menu__el-icon">
+						<svg class="icon icon_psevdo_">
+							<use xlink:href="#menu-item__"></use>
+						</svg>
+					</div>
+					<div class="header__sub-menu__el-text"> Десерти та напої</div>
+				</a>
+			</li>
+		</ul>	
+		</li>
+				<li class="mobile-menu-el">
+		<a href="/kiiv/actions/" class="link_nul">Акції</a>
+	</li>
+		
+		<li class="mobile-menu-el">
+		<a href="/kiiv/delivery/" class="link_nul">Доставка</a>
+	</li>
+		
+		<li class="mobile-menu-el">
+		<a href="/reviews/" class="link_nul">Відгуки</a>
+	</li>
+		
+		<li class="mobile-menu-el">
+		<a href="/about/" class="link_nul">Про нас</a>
+	</li>
+		
+<li class="mobile-menu-el mobile-menu-el--sub"><a href="/ofert/" class="link_nul">Публічна оферта</a></li>
+<!--<li class="mobile-menu-el mobile-menu-el--sub"><a href="/privacy-policy/" class="link_nul">Политика конфидениальности</a></li>-->
+
+							<li class="mobile-menu-el mobile-menu-el--sub">
+					<a href="#" data="modal-enter" class="header-enter__login get-modal">Вхід</a>
+				</li>
+				<li class="mobile-menu-el mobile-menu-el--sub">
+					<a href="#" data="modal-regist" class="header-enter__reg get-modal">Реєстрація</a>
+				</li>
+			
+	</ul>
+	<!--/noindex-->
+</nav>
+<!--block mobile-menu end-->
+
+<!--block modal-school-->
+<div class="modal modal-school">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+					<use xlink:href="#close"></use>
+				</svg>
+			</div>
+			<div class="modal-title-sub-wrap">
+				<div class="modal-title__sub">Заповните анкету</div>
+			</div>
+		<form name="school_form" action="#" method="post" id="school_form">
+			<div class="modal-row--mid">
+				<div class="input-select input-select--box">
+						<select class="select-rest" name="POST">
+							<option value="Не выбрано" data-display="Должность">Не выбрано</option>
+							<option value="Су шеф">Су шеф</option>
+							<option value="Брэнд шеф">Брэнд шеф</option>
+							<option value="Куратор">Куратор</option>
+						</select>
+				</div>
+			</div>
+			<div class="modal-cont--md">
+				<div class="modal-form">
+					
+						<div class="modal-box modal-box--info">
+							<div class="modal-row-title">Общие данные</div>
+							<div class="input-row">
+								<input type="text" name="NAME" placeholder="Ф.И.О.*"/>
+							</div>
+							<div class="input-row input-row--half">
+								<div class="input-row--half__el">
+									<input type="text" name="DATE" placeholder="Дата рождения*"/>
+								</div>
+								<div class="input-row--half__el">
+									<div class="input-select">
+										<select name="FAMILY" class="select-rest">
+											<option value="Не выбрано" data-display="Семейное положение">Не выбрано</option>
+											<option value="Женат / Замужем">Женат / Замужем</option>
+											<option value="Не женат / Не замужем">Не женат / Не замужем</option>
+										</select>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="modal-box modal-box--passport">
+							<div class="modal-row-title">Паспорт:</div>
+							<div class="input-row input-row--half">
+								<div class="input-row--half__el">
+									<input type="text" name="SERIAL" placeholder="Серия*"/>
+								</div>
+								<div class="input-row--half__el">
+									<input type="text" name="NUMBER" placeholder="Номер*"/>
+								</div>
+							</div>
+							<div class="input-row">
+								<input type="text" name="GIVEN" placeholder="Выдан*"/>
+							</div>
+						</div>
+						<div class="modal-box modal-box--adress">
+							<div class="input-row">
+								<input type="text" name="ADDRESS" placeholder="Адрес прописки*"/>
+							</div>
+							<div class="input-row">
+								<input type="text" name="ADDRESSFACT" placeholder="Адрес места фактического проживания*"/>
+							</div>
+							<div class="input-row input-row--half">
+								<div class="input-row--half__el">
+									<input type="text" name="PHONE" placeholder="Телефон*"/>
+								</div>
+								<div class="input-row--half__el">
+									<input type="text" name="PHONE2" placeholder="Дополнительный телефон"/>
+								</div>
+							</div>
+						</div>
+						<div class="modal-box modal-box--prison">
+							<div class="modal-row-title">Наличие судимости (у Вас или у Ваших родственников):</div>
+							<div class="input-row input-row--radio">
+								<div class="modal-box--prison__check">
+									<div class="check-el">
+										<label class="style-label style-label--radio">
+											<input type="radio" name="PRISON" value="Да" class="sytle-input" />
+											<div class="sytle-input-element">
+												<div class="icon-radio"> </div>
+											</div>
+											<div class="sytle-input-text">Да</div>
+										</label>
+									</div>
+									<div class="check-el">
+										<label class="style-label style-label--radio">
+											<input type="radio" name="PRISON" value="Нет" class="sytle-input" />
+											<div class="sytle-input-element">
+												<div class="icon-radio"> </div>
+											</div>
+											<div class="sytle-input-text">Нет</div>
+										</label>
+									</div>
+								</div>
+								<div class="modal-box--prison__input">
+									<div class="input-row">
+										<input type="text" name="PRISONYAER" placeholder="если судимость погашена, указать в каком году"/>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="modal-box modal-box--smoken">
+							<div class="modal-box--smoken__text">Курите ли Вы?:</div>
+							<div class="modal-box--smoken__chek">
+								<div class="check-el">
+									<label class="style-label style-label--radio">
+										<input type="radio" name="SMOKE" value="Да" class="sytle-input" />
+										<div class="sytle-input-element">
+											<div class="icon-radio"> </div>
+										</div>
+										<div class="sytle-input-text">Да</div>
+									</label>
+								</div>
+								<div class="check-el">
+									<label class="style-label style-label--radio">
+										<input type="radio" name="SMOKE" value="Нет" class="sytle-input" />
+										<div class="sytle-input-element">
+											<div class="icon-radio"> </div>
+										</div>
+										<div class="sytle-input-text">Нет</div>
+									</label>
+								</div>
+							</div>
+						</div>
+					
+				</div>
+			</div>
+			<div class="modal-cont--xl">
+				<div class="modal-row-title">Профессия и квалификация</div>
+				<div class="question__wrap question--md">
+					<div class="question">
+						<div class="question__row">
+							<div class="question__item">
+								<div class="question__item-head">Даты поступления и окончания</div>
+								<input name="EDUCDATA[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Название учебного заведения</div>
+								<input name="EDUCNAME[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Квалификация, специальность</div>
+								<input name="EDUCSPEC[]" contentEditable="true" class="question__item-text"/>
+							</div>
+						</div>
+						<div class="question__row">
+							<div class="question__item">
+								<div class="question__item-head">Даты поступления и окончания</div>
+								<input name="EDUCDATA[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Название учебного заведения</div>
+								<input name="EDUCNAME[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Квалификация, специальность</div>
+								<input name="EDUCSPEC[]" contentEditable="true" class="question__item-text"/>
+							</div>
+						</div>
+					</div>
+					<div class="question__add">
+						<div class="question__add-el">
+							<svg class="icon">
+								<use xlink:href="#plus"></use>
+							</svg>
+						</div>
+					</div>
+					<div class="input-row">
+						<input name="ABILITIES" type="text" placeholder="Опишите, пожалуйста, в произвольной форме, какими наиболее ценными профессиональными умениями и навыками Вы обладаете" />
+					</div>
+				</div>
+			</div>
+			<div class="modal-cont--xl">
+				<div class="modal-row-title">Профессиональная деятельность.</div>
+				<div class="question__wrap question--xl">
+					<div class="question">
+						<div class="question__row">
+							<div class="question__item">
+								<div class="question__item-head">Дата приема и увольнения</div>
+								<input name="PROFDATA[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Предприятие, подразделение
+								</div>
+								<input name="PROFPLACE[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Должность, кол. подчиненных</div>
+								<input name="PROFPOST[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Выполняемые<br/>функции
+								</div>
+								<input name="PROFFUNC[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Причина
+									<br> увольнения</div>
+								<input name="PROFREASON[]" contentEditable="true" class="question__item-text"/>
+							</div>
+						</div>
+						<div class="question__row">
+							<div class="question__item">
+								<div class="question__item-head">Дата приема и увольнения</div>
+								<input name="PROFDATA[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Предприятие, подразделение
+								</div>
+								<input name="PROFPLACE[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Должность, кол. подчиненных</div>
+								<input name="PROFPOST[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Выполняемые<br/>функции
+								</div>
+								<input name="PROFFUNC[]" contentEditable="true" class="question__item-text"/>
+							</div>
+							<div class="question__item">
+								<div class="question__item-head">Причина
+									<br> увольнения</div>
+								<input name="PROFREASON[]" contentEditable="true" class="question__item-text"/>
+							</div>
+						</div>
+					</div>
+					<div class="question__add">
+						<div class="question__add-el">
+							<svg class="icon">
+								<use xlink:href="#plus"></use>
+							</svg>
+						</div>
+					</div>
+					<div class="question-rows">
+						<div class="input-row">
+							<input type="text" name="PAYBEFORE" placeholder="Укажите пожалуйста размер вашей з/пл на последнем месте работы (в руб.)"/>
+						</div>
+						<div class="input-row">
+							<input type="text" name="PAYWANT" placeholder="На какую з/пл Вы претендуете (в руб.)"/>
+						</div>
+						<div class="input-row">
+							<input type="text" name="WHEN" placeholder="Когда Вы готовы приступить к обучению?"/>
+						</div>
+					</div>
+					<div class="input-row input-row--half">
+						<div class="input-row--half__el">
+							<input type="text" name="SOURCE" placeholder="Источник информации о вакансии" />
+						</div>
+						<div class="input-row--half__el">
+							<input type="text" class="dateinput" placeholder="Дата (число, месяц, год)" />
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal-row--mid">
+				<div class="check-el">
+					<label class="style-label style-label--checkbox">
+						<input type="checkbox" name="agree" class="sytle-input" />
+						<div class="sytle-input-element">
+							<svg class="icon-check">
+								<use xlink:href="#checked"></use>
+							</svg>
+						</div>
+						<div class="sytle-input-text">Я согласен с <a href="/privacy-policy/" target="_blank">пользовательским соглашением</a>*</div>
+					</label>
+				</div>
+			</div>			
+			</form>
+		</div>
+
+		<div class="modal-question__action">
+			<div class="btn--md btn--orange get-school">Отправить</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal modal-job">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+					<use xlink:href="#close"></use>
+				</svg>
+			</div>
+			<div class="modal-title-sub-wrap">
+				<div class="modal-title__sub">Заповнити анкету</div>
+			</div>
+		<form name="vacancy_form" action="#" method="post" id="vacancy_form">
+			<div class="modal-row--mid">
+				<div class="input-select input-select--box">
+									</div>
+			</div>
+			<div class="modal-cont--md">
+				<div class="modal-form">				
+						<div class="modal-box modal-box--info">
+							<div class="input-row">
+								<input type="text" name="NAME" placeholder="Ім'я*"/>
+							</div>
+							<div class="input-row">
+								<input type="text" name="PHONE" placeholder="Телефон*"/>
+							</div>
+							<div class="input-row">
+								<input type="text" name="NUMBER" placeholder="Email"/>
+							</div>
+							<div class="input-row">
+								<input type="text" name="PRISON" placeholder="Вік"/>
+							</div>		
+							<div class="input-row">
+								<textarea name="WHEN" style="min-height: 140px;" placeholder="Расскажите нам, пожалуйста, о своем профессиональном опыте в свободной форме или прикрепите свое резюме*"></textarea>
+							</div>
+							<div class="input-row" style="-webkit-justify-content: center; -ms-flex-pack: center; justify-content: center;">
+								<input type="file" name="GIVEN" style="width: 300px; position: absolute; opacity: 0;cursor: pointer;"/>
+								<div class="btn--md" style="border:1px solid">Завантажити резюме</div>
+							</div>							
+						</div>				
+				</div>
+			</div>
+			<div class="modal-row--mid">
+				<div class="check-el">
+					<label class="style-label style-label--checkbox">
+						<input type="checkbox" name="agree" class="sytle-input" />
+						<div class="sytle-input-element">
+							<svg class="icon-check">
+								<use xlink:href="#checked"></use>
+							</svg>
+						</div>
+						<div class="sytle-input-text" style="font-size: 12px;">Я згоден з <a href="/ofert/" target="_blank">угодою користувача</a> та даю згоду на обробку моїх персональних даних.</div>					</label>
+				</div>
+			</div>			
+			</form>
+		</div>
+		<p class="scs_job modal-title__sub" style="display:none">Дякую. Ваша анкета відправлена</p>
+		<div class="modal-question__action"> 
+			<div class="btn--md btn--orange get-job">Відгукнутися</div>
+		</div>
+	</div>
+</div>
+
+<!--block modal-school end-->
+<!--block modal-regist-->
+<div class="modal modal-regist">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+					<use xlink:href="#close"></use>
+				</svg>
+			</div>
+			<div class="modal-title">Реєстрація</div>
+			<div class="modal-cont">
+				<div class="modal-form">
+					<form action="#" id="register_form">
+						<div class="input-row">
+							<input type="text" placeholder="Ім'я" name="name" class="label_better" required=""/>
+						</div>
+						<div class="input-row">
+							<input type="text" placeholder="Телефон" name="phone" class="label_better input_phone full_phone" required=""/>
+						</div>
+						<div class="input-row">
+							<input type="text" placeholder="Email" name="email" class="label_better" required=""/>
+						</div>
+						<div class="input-row">
+							<svg class="icon-show-pass">
+								<use xlink:href="#eye"></use>
+							</svg>
+							<input type="password" placeholder="Пароль" name="password" class="label_better" required=""/>
+						</div>
+						<div class="input-row">
+							<svg class="icon-show-pass">
+								<use xlink:href="#eye"></use>
+							</svg>
+							<input type="password" placeholder="Підтвердити пароль" name="password2" class="label_better" required="" />
+						</div>
+						<div class="input-row error hide"></div>
+
+						<div class="check-el">
+						<label class="style-label style-label--checkbox">
+							<input type="checkbox" class="sytle-input" name="license" value="1"/>
+							<div class="sytle-input-element">
+								<svg class="icon-check">
+									<use xlink:href="#checked"></use>
+								</svg>
+							</div>
+							<div class="sytle-input-text" style="font-size: 12px;">Я згоден з <a href="/ofert/" target="_blank">угодою користувача</a> та даю згоду на обробку моїх персональних даних.</div>						</label>
+					</div>
+
+						<div class="modal-form__action">
+							<div class="btn--md btn--orange">Реєстрація</div>
+						</div>
+					</form>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--block modal-regist end-->
+<!--block modal-enter-->
+<div class="modal modal-enter">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+					<use xlink:href="#close"></use>
+				</svg>
+			</div>
+			<div class="modal-title">Авторизація</div>
+			<div class="modal-cont">
+				<div class="modal-form">
+					<form action="#" id="auth_form">
+						<div class="input-row">
+							<input type="text" placeholder="Телефон" name="login" required="" class="label_better input_phone full_phone" />
+						</div>
+						<div class="input-row">
+							<svg class="icon-show-pass">
+								<use xlink:href="#eye"></use>
+							</svg>
+							<input type="password" name="password" placeholder="Пароль" required="" class="label_better" />
+						</div>
+						<div data="modal-pass" class="modal-form__fogot get-modal">Забули пароль?</div>
+						<div class="input-row error hide"></div>
+						<div class="modal-form__action">
+							<div class="btn--md btn--orange">Увійти</div>
+						</div>
+					</form>
+					<div data="modal-regist" class="modal-form__regist get-modal">Не маєте облікового запису? зареєструватися</div>
+					<!-- <div class="modal-form__soc">
+						<div class="modal-form__soc-title">Или войдите с помощью:</div>
+						<div class="modal-form__soc-wrap">
+							<a href="#" class="modal-form__soc-el">
+								<svg class="icon">
+									<use xlink:href="#soc-fb"></use>
+								</svg>
+							</a>
+							<a href="#" class="modal-form__soc-el">
+								<svg class="icon">
+									<use xlink:href="#soc-ins"></use>
+								</svg>
+							</a>
+							<a href="#" class="modal-form__soc-el">
+								<svg class="icon">
+									<use xlink:href="#soc-vk"></use>
+								</svg>
+							</a>
+						</div>
+					</div> -->
+</div>
+			
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--block modal-enter end-->
+<!--block modal-pass-->
+<div class="modal modal-pass">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+					<use xlink:href="#close"></use>
+				</svg>
+			</div>
+			<div class="modal-title">Відновлення паролю</div>
+			<div class="modal-cont">
+				<div class="modal-form">
+					<form action="#" class="form-pass-fogot" id="forgotPass">
+						<div class="input-row success hide"></div>
+						<input type="text" placeholder="Електронна пошта або телефон" name="email" class="label_better" />
+						<div class="input-row error hide"></div>
+						<div class="modal-form__action">
+							<div class="btn--md btn--orange">Надіслати</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--block modal-pass end-->
+<!--block modal-ty-->
+<div class="modal modal-review_success">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+				  <use xlink:href="#close"></use>
+				</svg>
+			  </div>
+			  <div class="modal-cont">
+				<div class="block-ty">
+				  <div class="block-ty__icon">
+					<svg class="icon-heart">
+					  <use xlink:href="#heart"></use>
+					</svg>
+				  </div>
+				  <div class="block-ty__text">Дякуємо!
+					<br>Ваш відгук відправлений <br/> і з'явиться на сайті після перевірки модератором.				  </div>
+				</div>
+			  </div>
+		</div>
+	</div>
+</div>
+<!--block modal-ty end-->
+<!--block modal-ty-->
+<div class="modal modal-callback_success">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+				  <use xlink:href="#close"></use>
+				</svg>
+			  </div>
+			  <div class="modal-cont">
+				<div class="block-ty">
+				  <div class="block-ty__icon">
+					<svg class="icon-heart">
+					  <use xlink:href="#heart"></use>
+					</svg>
+				  </div>
+				  <div class="block-ty__text">Дякуємо!
+					<br>Ваш запит відправлено. <br/> Ми зв'яжемося з Вами найближчого часу.				  </div>
+				</div>
+			  </div>
+		</div>
+	</div>
+</div>
+<!--block modal-ty end-->
+<!--block modal-ty-->
+<div class="modal modal-ty">
+	<div class="main-cont">
+		<div class="modal-wraper">
+			<div class="modal-close">
+				<svg class="icon-close-modal">
+				  <use xlink:href="#close"></use>
+				</svg>
+			</div>
+			<div class="modal-cont">
+				<div class="block-ty">
+				    <div class="block-ty__icon">
+						<svg class="icon-heart">
+							<use xlink:href="#heart"></use>
+						</svg>
+				    </div>
+				    <div class="block-ty__text">Дякуємо!
+						<br>Ваше замовлення прийнято				    </div>
+					<p style="text-align: center;">Ожидайте подтверждение заказа в течении 10 минут рабочего времени с 9:30 до 21:30. Также, всегда рады слышать Вас за номером 0 800 330 333</p>
+										</div>
+				<!--<div class="modal-form__action">
+				  <a href="/order/?ORDER=" class="btn--md btn--light">Стежити за замовленням</a>
+				</div>-->
+															
+			</div>
+		</div>
+	</div>
+</div>
+<!--block modal-ty end-->
+<!--block modal-order-->
+<div class="modal modal-order">
+	<div class="main-cont">
+		<div class="modal-wraper">
+		</div>
+	</div>
+</div>
+<!--block modal-order end-->
+<!--block modal-get-order-->
+<div class="modal modal-get-order">
+	<div class="main-cont">
+		<div class="modal-wraper">
+
+		</div>
+	</div>
+</div>
+<!--block modal-get-order end-->
+<div class="modal modal-wok">
+				<div class="main-cont">
+					<div class="modal-wraper">
+						<div class="modal-close">
+							<svg class="icon-close-modal">
+								<use xlink:href="#close"></use>
+							</svg>
+						</div>
+						<div class="wok-wraper">
+							<div class="wok-info">
+
+							</div>
+							<div class="wok-item">
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+<div class="modal modal-sushi">
+				<div class="main-cont">
+					<div class="modal-wraper">
+						<div class="modal-close">
+							<svg class="icon-close-modal">
+								<use xlink:href="#close"></use>
+							</svg>
+						</div>
+						<div class="sushi-wraper">
+
+						</div>
+					</div>
+				</div>
+			</div>
+<!--block modal-review-->
+			<div class="modal modal-review">
+				<div class="main-cont">
+					<div class="modal-wraper">
+						<div class="modal-close">
+							<svg class="icon-close-modal">
+								<use xlink:href="#close"></use>
+							</svg>
+						</div>
+						<div class="modal-title">Залишити відгук</div>
+						<div class="modal-review-cont">
+							<div class="modal-review-header">
+								<div class="modal-review-rating">
+									<div class="type">Рейтинг:</div>
+									<div class="star-row">
+										<div class="star-el star-el--empty">
+											<svg class="icon">
+												<use xlink:href="#star"></use>
+											</svg>
+										</div>
+										<div class="star-el star-el--empty">
+											<svg class="icon">
+												<use xlink:href="#star"></use>
+											</svg>
+										</div>
+										<div class="star-el star-el--empty">
+											<svg class="icon">
+												<use xlink:href="#star"></use>
+											</svg>
+										</div>
+										<div class="star-el star-el--empty">
+											<svg class="icon">
+												<use xlink:href="#star"></use>
+											</svg>
+										</div>
+										<div class="star-el star-el--empty">
+											<svg class="icon">
+												<use xlink:href="#star"></use>
+											</svg>
+										</div>
+									</div>
+								</div>
+								<!--<div class="modal-form__soc">
+									<div class="modal-form__soc-title">Вы в соц.сетях:</div>
+									<div class="modal-form__soc-wrap">
+										<a href="#" class="modal-form__soc-el">
+											<svg class="icon">
+												<use xlink:href="#soc-fb"></use>
+											</svg>
+										</a>
+										<a href="#" class="modal-form__soc-el">
+											<svg class="icon">
+												<use xlink:href="#soc-ins"></use>
+											</svg>
+										</a>
+										<a href="#" class="modal-form__soc-el">
+											<svg class="icon">
+												<use xlink:href="#soc-vk"></use>
+											</svg>
+										</a>
+									</div>
+								</div>-->
+							</div>
+							<form action="#" id="review_form" class="modal-form">
+								<input type="hidden" name="rrate" value=''/>
+								<div class="input-row input-row--half">
+									<input type="text" placeholder="Ім'я" name="rname" class="label_better" />
+									<input type="text" placeholder="Місто" name="rcity" class="label_better" />
+								</div>
+								<div class="input-row input-row--half">
+									<input type="text" placeholder="Телефон" name="rphone" class="label_better" />
+									<input type="text" placeholder="Email" name="remail" class="label_better" />
+								</div>
+								<div class="input-row">
+									<input type="text" placeholder="Адреса" name="raddress" class="label_better" />
+								</div>
+								<div class="input-row">
+									<textarea name="rtext" cols="30" rows="10" placeholder="Відгук"></textarea>
+								</div>
+								<div class="modal-review-footer">
+									<div class="modal-upload">
+										<div class="type">Додати фотографії:</div>
+										<div class="modal-upload-row">
+											<label class="modal-upload-row_el modal-upload-row_el--add">
+												<svg class="icon icon-upload-add">
+													<use xlink:href="#plus"></use>
+												</svg>
+												<input type="file" name="rfile[]" class="modal-upload-btn" multiple/>
+											</label>
+										</div>
+									</div>
+									<div class="modal-review-get">
+										<input type="submit" data="modal-ty" class="btn--md btn--orange" value="Надіслати"/>
+									</div>
+									<!--<div class="modal-review-get">
+										<div data="modal-ty" class="btn--md btn--orange get-modal">Отправить</div>
+									</div>-->
+								</div>
+							</form>
+							<div style="display:none" data="modal-review_success" class="get-modal rvsccss"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--block modal-review end-->
+			<!--block modal-callback-->
+			<div class="modal modal-callback">
+				<div class="main-cont">
+					<div class="modal-wraper">
+						<div class="modal-close">
+							<svg class="icon-close-modal">
+								<use xlink:href="#close"></use>
+							</svg>
+						</div>
+						<div class="modal-title modal-callback__title get-mango-btn">Обратный звонок</div>
+						<div class="modal-callback__title-sub" style="text-align: center; margin-top: 20px;">Мы свяжемся с Вами в ближайшее время</div>
+						<div class="modal-cont">
+							<div class="modal-form">
+								<form id="cb_form" action="#" method="post">
+									<div class="input-row">
+										<input type="text" placeholder="Имя" name="cb_name" class="label_better" />
+									</div>
+									<div class="input-row">
+										<input type="text" placeholder="Телефон" name="cb_phone" class="label_better" />
+									</div>
+									<div class="modal-form__action">
+										<input type="submit" data="modal-ty" class="btn--md btn--orange" value="Отправить"/>
+									</div>
+								</form>
+								<div style="display:none" data="modal-callback_success" class="get-modal cbsccss"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+	<script src="/js/jquery.json.min.js"></script>
+	<script src="/js/inputmask/inputmask.js"></script>
+    <script src="/js/inputmask/jquery.inputmask.js"></script>
+	<script src="/js/jquery.fancybox.min.js"></script>
+    <script src="/js/inputmask/inputmask.phone.extensions.js"></script>
+    <script src="/js/inputmask/inputmask.date.extensions.js"></script>
+		<!--[if lt IE 10]>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.1/jquery.xdomainrequest.min.js"></script>
+		<![endif]-->
+		<script src="/js/jquery.suggestions.min.js"></script>
+		<script src="/js/script8.js?ver=1.2"></script>
+		<script src="/js/script-edit.js"></script>
+ 
+		<script src="/js/script-new841.js?ver=2.44"></script>
+
+		<script src="/js/validation/jquery.validate.js"></script>
+		<script src="/js/custom841.js?ver=1.97"></script>
+		
+		<script src="/js/select2.js?ver=1.1"></script>
+		<script src="/js/script.js?ver=6.3"></script>
+		
+								<div class="overlay" style="display:none">
+			<div class="popup popup-town modal-town"> 
+				<div class="modal-wraper" style="height: 100%;">
+					<div class="popup-close">
+						<svg class="icon-close-modal">
+							<use xlink:href="#close"></use>
+						</svg>
+					</div>
+					<div class="modal-title">Оберіть місто</div>
+					<div class="alert-change" style="display:none">УВАГА! При зміні міста Ваша корзина буде очищена, і Ви будете перенаправлені на головну сторінку міста.</div>
+					<div class="modal-town__serch">
+						<!--block live-serch-->
+						<div class="serch-wrap">
+							<div class="serch-content">
+								<label class="serch-row">
+									<svg class="icon-serch">
+										<use xlink:href="#close"></use>
+									</svg>
+									<input type="text" class="serch-row-input" placeholder="Пошук за назвою"/>
+								</label>
+								<div class="serch-empty">
+									<div class="serch-empty-text">Немає результатів</div>
+								</div>
+								<div class="serch-result">
+
+								</div>
+							</div>
+						</div>
+						<!--block live-serch end-->
+						<div id="for-city-list" style="height: 100%;"></div>
+					</div>
+				</div>			
+			</div>
+			<div class="popup popup-worktime" >
+				<div class="popup-close">
+					<svg class="icon-close-modal">
+						<use xlink:href="#close"></use>
+					</svg>
+				</div>
+				<div class="modal-title">Добрий вечір!</div><br/>Час роботи ресторану закінчився, але Ви можете зробити замовлення на наступну дату.				<br/><br/>
+				<a href="/" class="btn--md btn--orange">Перейти до меню</a>
+			</div>	
+			<div class="popup popup-invite">
+				<div class="popup-close">
+					<svg class="icon-close-modal">
+						<use xlink:href="#close"></use>
+					</svg>
+				</div>
+				<p><br/>
+					Отправьте этот код вашему другу и вы оба получите бонусные баллы*<br/>
+					<span style="font-size:10px; line-height: 12px; display: block; margin-top: 10px;">*Для получения баллов приглашенный друг должен зарегистрироваться на сайте и сделать заказ</span>
+				</p>
+				<p id="invite_code" style="margin: 30px 0; font-weight: 600; padding: 10px;  border: 1px solid #bdbdbd; border-radius: 20px;"></p>
+				<a href="#" class="btn--md btn--orange">Скопировать код</a>
+			</div>	
+			<div class="popup popup-order-exclude">
+				<div class="popup-close">
+					<svg class="icon-close-modal">
+						<use xlink:href="#close"></use> 
+					</svg>
+				</div> 
+				<p>У заказі є блюда, які не можна замовити на вказаний час.<br/><br/>Будь-ласка, оберіть інший час замовлення, або видаліть такі блюда з корзини:<br/><span id="order-exclude-string"></span></p>
+			</div>			
+			<div class="popup popup-check-restoran">
+				<div class="popup-close">
+					<svg class="icon-close-modal">
+						<use xlink:href="#close"></use>
+					</svg>
+				</div>				
+				<div class="popup-content">
+					<div class="modal-title">Выберите пункт самовывоза</div>
+					<br />
+					<div id="select_content"></div>
+				</div>
+			</div>
+			<div class="popup popup-check-minprice">
+				<div class="popup-close">
+					<svg class="icon-close-modal">
+						<use xlink:href="#close"></use>
+					</svg>
+				</div>				
+				<div class="popup-content">
+					<div class="modal-title"></div>
+				</div>
+			</div>
+			<div class="popup popup-allergen">
+				<div class="popup-close">
+					<svg class="icon-close-modal">
+						<use xlink:href="#close"></use>
+					</svg>
+				</div>				
+				<div class="popup-content">
+					<div class="modal-title">Продукти-алергени</div>
+					<br />
+					<div class="allergen-list">
+					
+												
+							<p style="color: #e1040b;">
+ <b>ПЕРЕЛІК РЕЧОВИН ТА&nbsp;ХАРЧОВИХ ПРОДУКТІВ,&nbsp; ЯКІ СПРИЧИНЯЮТЬ АЛЕРГІЧНІ РЕАКЦІЇ АБО НЕПЕРЕНОСИМІСТЬ </b>
+</p>
+<p>
+ <b>1. ЗЛАКИ, ЩО&nbsp;МІСТЯТЬ ГЛЮТЕН, А&nbsp;САМЕ:</b>
+</p>
+<p>
+	 пшениця (пшениця спельта та&nbsp;камут), жито, ячмінь, овес або їх&nbsp;гібридні види та&nbsp;продукти з&nbsp;них, за&nbsp;винятком:<br>
+	 —&nbsp;сиропів з&nbsp;глюкози, на&nbsp;основі пшениці, включно з&nbsp;декстрозою<br>
+	 —&nbsp;мальтодекстринів на&nbsp;основі пшениці<br>
+	 —&nbsp;сиропів з&nbsp;глюкози на&nbsp;основі ячменю<br>
+	 —&nbsp;зернових, що&nbsp;використовуються для виробництва спиртових дистилятів
+</p>
+<p>
+ <b>2. РАКОПОДІБНІ ТА&nbsp;ПРОДУКТИ З&nbsp;РАКОПОДІБНИХ </b>
+</p>
+<p>
+ <b>3. ЯЙЦЯ ТА&nbsp;ПРОДУКТИ З&nbsp;ЯЄЦЬ </b>
+</p>
+<p>
+ <b>4. РИБА ТА&nbsp;ПРОДУКТИ З&nbsp;РИБИ, ЗА&nbsp;ВИНЯТКОМ:</b>
+</p>
+<p>
+	 —&nbsp;риб’ячого желатину, що&nbsp;використовується як&nbsp;носій для вітамінів або каротиноїдних препаратів<br>
+	 —&nbsp;риб’ячого желатину або риб’ячого клею, що&nbsp;використовується як&nbsp;освітлювач для пива та&nbsp;вина
+</p>
+<p>
+ <b>5. АРАХІС ТА&nbsp;ПРОДУКТИ З&nbsp;АРАХІСУ </b>
+</p>
+<p>
+ <b>6. СОЄВІ БОБИ ТА&nbsp;ПРОДУКТИ З&nbsp;НИХ, КРІМ:</b>
+</p>
+<p>
+	 —&nbsp;повністю рафінованих соєвої олії та&nbsp;жиру<br>
+	 —&nbsp;природних змішаних токоферолів (E306), природного D-альфа-токоферолу, природного D-альфа-токоферолу ацетату та&nbsp;природного D-альфа- токоферолу сукцинату, джерелом яких є&nbsp;соя<br>
+	 —&nbsp;фітостеролів та&nbsp;ефірів фітостеролів, що&nbsp;походять з&nbsp;рослинної олії, джерелом якої є&nbsp;соя<br>
+	 —&nbsp;рослинного ефіру станолу, виробленого зі&nbsp;стеролів рослинної олії, джерелом якої є&nbsp;соя
+</p>
+<p>
+ <b>7. МОЛОКО ТА&nbsp;ПРОДУКТИ З&nbsp;МОЛОКА (ВКЛЮЧАЮЧИ ЛАКТОЗУ), КРІМ:</b>
+</p>
+<p>
+	 —&nbsp;сироватки, що&nbsp;використовується для виробництва спиртових дистилятів<br>
+	 —&nbsp;лактитолу
+</p>
+<p>
+ <b>8. ГОРІХИ, А&nbsp;САМЕ:</b>
+</p>
+<p>
+	 —&nbsp;мигдаль (Amygdalus communis&nbsp;L.), лісовий горіх (Corylus avellana), грецький горіх (Juglans regia), кеш’ю (Anacardium occidentale), пекан (Carya illinoinensis (Wangenh.) K.&nbsp;Koch), фісташка (Pistacia vera), бразильський горіх (Bertholletia excelsa), макадамія або горіхи Квінсленда (Macadamia ternifolia), продукти з&nbsp;цих горіхів, крім горіхів, що&nbsp;використовуються для виробництва алкогольних продуктів перегонки
+</p>
+<p>
+ <b>9. СЕЛЕРА ТА&nbsp;ПРОДУКТИ З&nbsp;СЕЛЕРИ </b>
+</p>
+<p>
+ <b>10. ГІРЧИЦЯ ТА&nbsp;ПРОДУКТИ З&nbsp;ГІРЧИЦІ </b>
+</p>
+<p>
+ <b>11. НАСІННЯ КУНЖУТУ ТА&nbsp;ПРОДУКТИ З&nbsp;НАСІННЯ КУНЖУТУ </b>
+</p>
+<p>
+ <b>12. ДВООКИС СІРКИ ТА&nbsp;СУЛЬФІТИ</b>
+</p>
+<p>
+	 У&nbsp;концентраціях понад 10&nbsp;міліграмів на&nbsp;кілограм або 10&nbsp;міліграмів на&nbsp;літр в&nbsp;розрахунку на&nbsp;сумарний обсяг оксиду сірки (SO2), що&nbsp;розраховуються для продуктів, які пропонуються як&nbsp;готові до&nbsp;споживання або відновлені згідно з&nbsp;інструкціями виробників
+</p>
+<p>
+ <b>13. ЛЮПИН ТА&nbsp;ПРОДУКТИ З&nbsp;ЛЮПИНУ </b>
+</p>
+<p>
+ <b>14. МОЛЮСКИ ТА&nbsp;ПРОДУКТИ З&nbsp;МОЛЮСКІВ </b>
+</p>						
+												
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	
+
+ <div id="cookie-bar" class="fixed bottom" style="z-index:9000;"><p>Цей сайт використовує файли cookie. Якщо Ви продовжуєте - Ви погоджуєтеся на використання файлів cookie підчас перегляду. <a href="/privacy-policy/">Детальніше</a><a onclick="document.cookie = 'usecookie=use; path=/; expires=Fri, 31 Dec 9999 23:59:59 GMT';document.getElementById('cookie-bar').style.display = 'none'; return false;" href="" class="cb-enable">Ok</a></p></div>
+ <!--<script>var telerWdWidgetId="aa1c3b1b-a10e-4705-b819-8d79a28f0902";var telerWdDomain="sushimaster.phonet.com.ua";</script> <script src="//sushimaster.phonet.com.ua/public/widget/call-catcher/lib-v3.js"></script>
+ <script>var telerTrackerWidgetId="40b508ed-392f-4715-815f-66835faa7c42"; var telerTrackerDomain="sushimaster.phonet.com.ua";</script> <script src="//sushimaster.phonet.com.ua/public/widget/call-tracker/lib.js"></script>
+ -->
+ 
+<link rel="stylesheet" href="https://cdn.envybox.io/widget/cbk.css">
+<script type="text/javascript" src="https://cdn.envybox.io/widget/cbk.js?wcb_code=30e305e9ad1f288ebb1e256ba33e93dc" charset="UTF-8" async></script>
+
+<!-- Yeps {literal} --> <script> (function (y, e, p) { e.YepsID = 'vyptpdtrzDZFt5Wbz'; var s = y.createElement('script'); e[p] = e[p] || function() { (e[p].q = e[p].q || []).push(arguments); }; s.async = true; s.src = 'https://widget.yeps.io/yeps.js'; if (y.head) y.head.appendChild(s); })(document, window, 'Yeps'); </script> <!-- /Yeps {/literal} -->
+
+ <script type="text/javascript">
+  (function(d, w, s) {
+    var widgetHash = '23lrpnstpd92isi5c3g4', gcw = d.createElement(s); gcw.type = 'text/javascript'; gcw.async = true;
+    gcw.src = '//widgets.binotel.com/getcall/widgets/'+ widgetHash +'.js';
+    var sn = d.getElementsByTagName(s)[0]; sn.parentNode.insertBefore(gcw, sn);
+  })(document, window, 'script');
+</script>
+
+ </body>
+</html>
